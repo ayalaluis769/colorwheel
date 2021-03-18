@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.row {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.circle {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.red {
+    background: red;
+}
+
+.orange {
+    background: orange;
+}
+
+.yellow {
+    background: yellow;
+}
+
+.green {
+    background: green;
+}
+
+.blue {
+    background: blue;
+}
+
+.violet {
+    background: violet;
+}
